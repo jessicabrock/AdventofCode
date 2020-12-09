@@ -1,6 +1,6 @@
 # AdventofCode
 
-2020 holiday challege. Up to 50 gold coins in the challenge. I won't 
+2020 holiday challege. Up to 50 gold coins in the challenge. I won't
 get to 50, but let's see how far I get.
 
 ## File Structure
