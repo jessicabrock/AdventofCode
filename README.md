@@ -9,8 +9,8 @@ Looks like each day has two challenges. So I created subdirectories for
 each day and part.
 
 AdventofCode
-- day1_part1 
--- instructions.txt (from AdventofCode website)
--- day1_part1.py (code file)
--- input.txt (data input, from AdventofCode website)
--- test.py (optional, pytest or doctest)
+day1_part1  
+  -- instructions.txt (from AdventofCode website)  
+  -- day1_part1.py (code file)  
+  -- input.txt (data input, from AdventofCode website)  
+  -- test.py (optional, pytest or doctest)  
